@@ -1,0 +1,38 @@
+entry point
+
+	input Booking.com into web browser
+
+	if user is not logged in
+	
+		if user has no registered account 
+		output registration form
+		input user info for registration
+		output user status changed to logged in
+	
+		else output login form
+		input login and password
+		output user status changed to logged in
+	else
+
+	input location of traveling
+	input date of traveling
+	input number of people traveling
+	input number of rooms required
+
+	if traveling for work change boolean workForTraveling to true
+	else leave it at default value
+	output list of appartments according to current requirements
+
+	if user picked additional requirements set them to true
+	else leave them at default value
+	output list of appartments with new requirements
+	
+	input apartment ID from avaliable apartments list
+	output reservation form for selected appartment
+	input personal info for reservation
+	
+	output reservation cofirmation form
+	input reservation confirmation details
+	output reservation status changed to confirmed
+
+exit point
