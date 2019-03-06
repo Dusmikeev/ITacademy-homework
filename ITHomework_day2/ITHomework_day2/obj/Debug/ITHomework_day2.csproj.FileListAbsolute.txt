@@ -1,0 +1,7 @@
+D:\it-academy homework\day2\ITHomework_day2\ITHomework_day2\bin\Debug\ITHomework_day2.exe.config
+D:\it-academy homework\day2\ITHomework_day2\ITHomework_day2\bin\Debug\ITHomework_day2.exe
+D:\it-academy homework\day2\ITHomework_day2\ITHomework_day2\bin\Debug\ITHomework_day2.pdb
+D:\it-academy homework\day2\ITHomework_day2\ITHomework_day2\obj\Debug\ITHomework_day2.csprojAssemblyReference.cache
+D:\it-academy homework\day2\ITHomework_day2\ITHomework_day2\obj\Debug\ITHomework_day2.csproj.CoreCompileInputs.cache
+D:\it-academy homework\day2\ITHomework_day2\ITHomework_day2\obj\Debug\ITHomework_day2.exe
+D:\it-academy homework\day2\ITHomework_day2\ITHomework_day2\obj\Debug\ITHomework_day2.pdb
